@@ -1,0 +1,18 @@
+{
+  "name": "fwf-to-csv",
+  "version": "1.0.0",
+  "description": "read fixed-width-formatted txt file and convert it into csv file ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "fwf-to-csv",
+    "txt to csv",
+    "txt",
+    "csv",
+    "convert"
+  ],
+  "author": "abhishek limbad",
+  "license": "ISC"
+}
